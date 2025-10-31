@@ -1,0 +1,10 @@
+{
+  "name": "portfolio-template",
+  "version": "1.0.0",
+  "description": "Template básico de portfólio estático (HTML/CSS/JS)",
+  "scripts": {
+    "start": "npx http-server . -o"
+  },
+  "author": "Gustavo Rocha",
+  "license": "MIT"
+}
